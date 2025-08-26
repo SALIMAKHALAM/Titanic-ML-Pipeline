@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset (private, do not upload)
+train.csv
+test.csv
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# IDE settings (VS Code)
+.vscode/
