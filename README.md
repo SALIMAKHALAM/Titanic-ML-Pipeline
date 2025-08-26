@@ -69,16 +69,16 @@ git clone https://github.com/SALIMAKHALAM/Titanic-ML-Pipeline.git
 
 cd Titanic-ML-Pipeline
 
-**2.**Install dependencies:
+**2.** Install dependencies:
 
 pip install -r requirements.txt
 
-**3.**Place your train.csv in the project folder.
+**3.** Place your train.csv in the project folder.
 
 Run the pipeline:
 python titanic_pipeline_optimized.py
 
-**4.**Check generated plots:
+**4.** Check generated plots:
 
 kmeans_plot.png
 
