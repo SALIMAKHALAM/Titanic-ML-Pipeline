@@ -39,7 +39,7 @@ The goal is to predict survival of passengers aboard the Titanic using structure
 
 ## 🛠 Technologies Used
 
-- Python 3.x  
+- Python 3.12
 - Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn  
 
 ---
@@ -62,24 +62,26 @@ Average survival per cluster using KMeans:
 
 ## 🚀 How to Run
 
-1. Clone the repo:
+**1.** Clone the repo:
 
 
 git clone https://github.com/SALIMAKHALAM/Titanic-ML-Pipeline.git
+
 cd Titanic-ML-Pipeline
 
-2.Install dependencies:
+**2.**Install dependencies:
 
 pip install -r requirements.txt
 
-3.Place your train.csv in the project folder.
+**3.**Place your train.csv in the project folder.
 
 Run the pipeline:
 python titanic_pipeline_optimized.py
 
-5.Check generated plots:
+**4.**Check generated plots:
 
 kmeans_plot.png
+
 confusion_matrix.png
 
 **Improvements & Insights:**
