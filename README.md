@@ -84,7 +84,7 @@ kmeans_plot.png
 
 confusion_matrix.png
 
-**Improvements & Insights:**
+## Improvements & Insights:
 
 Hyperparameter tuning and feature engineering improved the Random Forest accuracy increased to 82%
 Feature engineering (Title, FamilySize, IsAlone) helped models better capture survival patterns.
